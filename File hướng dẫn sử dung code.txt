@@ -1,0 +1,11 @@
+File hướng dẫn sử dung code :
+Bước 1 :giải nến các file data ra
+Bước 2 : Chạy code Data để thu được 2 file data đã qua xử lý
+bước 3 : Tải kiến trúc mô hình GPT từ trang  https://huggingface.co/openai-community/gpt2/tree/main 
+tải 4 file :
+config.jon
+merges.txt
+Pytorch_model.bin
+vocab.jon 
+vào 1 thư mục đặt tên là ModelGPT-2
+bước 4 Chạy file MODEL để thu ươc các kết quả  
