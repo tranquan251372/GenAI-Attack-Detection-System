@@ -9,4 +9,4 @@ merges.txt
 Pytorch_model.bin
 vocab.jon 
 vào 1 thư mục đặt tên là ModelGPT-2
-bước 4 Chạy file MODEL để thu ươc các kết quả  
+bước 4 Chạy file MODEL để thu được các kết quả  
